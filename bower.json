@@ -1,0 +1,13 @@
+{
+  "name": "dz-port",
+  "authors": [
+    "HelenaO-K <6599990@gmail.com>"
+  ],
+  "description": "dz1",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
